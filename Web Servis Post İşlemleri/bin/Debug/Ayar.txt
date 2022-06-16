@@ -1,0 +1,10 @@
+True
+https://localhost:44326/deneme
+Kullanici Adi
+Şifre
+application/json
+{
+   "Adi":"Hasan",
+   "Soyadi":"Atmaca",
+   "yas":32
+}

@@ -1,0 +1,13 @@
+C:\Users\Filosoft\AppData\Local\Temporary Projects\Web Servis Post İşlemleri\bin\Debug\Web Servis Post İşlemleri.exe.config
+E:\Web Servis Post İşlemleri\Web Servis Post İşlemleri\bin\Debug\Web Servis Post İşlemleri.exe.config
+E:\Web Servis Post İşlemleri\Web Servis Post İşlemleri\bin\Debug\Web Servis Post İşlemleri.exe
+E:\Web Servis Post İşlemleri\Web Servis Post İşlemleri\bin\Debug\Web Servis Post İşlemleri.pdb
+E:\Web Servis Post İşlemleri\Web Servis Post İşlemleri\bin\Debug\Web Servis Post İşlemleri.xml
+E:\Web Servis Post İşlemleri\Web Servis Post İşlemleri\obj\Debug\Web_Servis_Post_İşlemleri.Anasayfa.resources
+E:\Web Servis Post İşlemleri\Web Servis Post İşlemleri\obj\Debug\Web_Servis_Post_İşlemleri.Resources.resources
+E:\Web Servis Post İşlemleri\Web Servis Post İşlemleri\obj\Debug\Web Servis Post İşlemleri.vbproj.GenerateResource.Cache
+E:\Web Servis Post İşlemleri\Web Servis Post İşlemleri\obj\Debug\Web Servis Post İşlemleri.exe
+E:\Web Servis Post İşlemleri\Web Servis Post İşlemleri\obj\Debug\Web Servis Post İşlemleri.xml
+E:\Web Servis Post İşlemleri\Web Servis Post İşlemleri\obj\Debug\Web Servis Post İşlemleri.pdb
+E:\Web Servis Post İşlemleri\Web Servis Post İşlemleri\obj\Debug\Web Servis Post İşlemleri.vbproj.AssemblyReference.cache
+E:\Web Servis Post İşlemleri\Web Servis Post İşlemleri\obj\Debug\Web Servis Post İşlemleri.vbproj.CoreCompileInputs.cache
